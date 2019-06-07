@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tupperware>
+	<product>
+    		<name>Smart Chopper</name>
+   		<price>Rs 2300</price>
+    		<description>Extra help in the kitchen</description>
+    		<color>blue,purple,red</color>
+	</product>
+	<product>
+    		<name>Easy MandoChef</name>
+    		<price>Rs 2800</price>
+    		<description>Slicing like a pro!</description>
+    		<color>red and white</color>
+	</product>
+	<product>
+    		<name>Access Mate</name>
+    		<price>Rs 1400</price>
+    		<description>Easy access to freshness</description>
+    		<color>red and white</color>
+	</product>
+	<product>
+    		<name>Canister</name>
+    		<price>Rs 610</price>
+    		<description>Crisp till the last bite</description>
+    		<color>red,purple</color>
+	</product>
+	<product>
+    		<name>My Lunch</name>
+    		<price>Rs 480</price>
+    		<description>Carry your lunch in style</description>
+    		<color>red and maroon, green and blue</color>
+	</product>
+	<product>
+    		<name>Microwave Containers</name>
+    		<price>Rs 575</price>
+    		<description>Now heat of warm meals instantly!</description>
+    		<color>red,yellow</color>
+	</product>
+</Tupperware>
